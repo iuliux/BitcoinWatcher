@@ -1,0 +1,6 @@
+<layout id="MainLayout">
+    <label id="PriceLabel" x="center" y="20" font="Gfx.FONT_TINY" text="Bitcoin" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="PriceRefreshing" x="center" y="50" font="Gfx.FONT_XTINY" text="... refreshing ..." justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLACK" />
+    <label id="PriceValue" x="center" y="center" font="Gfx.FONT_NUMBER_HOT" text="-" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+    <label id="PriceCurrency" x="center" y="150" font="Gfx.FONT_XTINY" text="USD" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+</layout>
